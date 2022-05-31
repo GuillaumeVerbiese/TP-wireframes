@@ -4,7 +4,7 @@
 | En tant que | Je veux | Afin de (si besoin/nécessaire) |
 |--|--|--|
 | Visiteur | Je veux pouvoir accéder à la liste des ingrédients d'une recette | afin de réaliser celle-ci dans ma cuisine |
-| Visiteur | pouvoir créer un compte | Accéder à mes informations personnelle , pouvoir déposer une idée de recette|
+| Visiteur | pouvoir créer un compte | Accéder à mes informations personnelles , pouvoir déposer une idée de recette|
 | Visiteur | pouvoir accéder au formulaire de dépose d'une recette | de partager mon expérience|
 | Visiteur | pouvoir avoir accés simplement aux dernière recettes déposées sur le site | afin de suivre les tenndances du moment |
 | Visiteur | Pouvoir accéder  simplement aux recettes les mieux notées | afin d'avoir le plus rapidement l'information d'une recette qui aura du succés |
